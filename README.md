@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Sobre
-- 🙋‍♀️ 22 anos
+- 🙋‍♀️ 23 anos
 - 👩‍💻 Estagiária Front-end 
 - 👩‍🎓 Sistemas de Informação 
 - 📍 São Pedro da Aldeia, RJ
