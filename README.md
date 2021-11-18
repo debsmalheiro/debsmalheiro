@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 
 # Sobre
 - 🙋‍♀️ 23 anos
-- 👩‍💻 Estagiária Front-end 
-- 👩‍🎓 Sistemas de Informação 
+- 👩‍💻 Front-end Developer Jr in development 
 - 📍 São Pedro da Aldeia, RJ
 
 [![Linkedin Badge](https://img.shields.io/badge/-Déborah%20Malheiro-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deborahmalheiro/)](https://www.linkedin.com/in/deborahmalheiro/) 
