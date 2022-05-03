@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # Sobre
-- 🙋‍♀️ 23 anos
+- 🙋‍♀️ 24 anos
 - 👩‍💻 Front-end Developer Jr in development 
 - 📍 São Pedro da Aldeia, RJ
 
