@@ -1,8 +1,8 @@
 # Hey! I am Déborah Malheiro
 
-- 🙋‍♀️ 24 years old
-- 👩‍💻 Front-end Developer Jr in development 
-- 📍 São Pedro da Aldeia, RJ
+- 🙋‍♀️ 25 years old
+- 👩‍💻 Front-end Developer Pl
+- 📍 Rio de Janeiro, RJ
 
 ## 💻 Skills
 <p>
